@@ -14,3 +14,4 @@
 
 # Output:
 
+# ![Image](https://github.com/user-attachments/assets/980fb324-16f7-45a8-b6dd-cfbf60a93b32)
