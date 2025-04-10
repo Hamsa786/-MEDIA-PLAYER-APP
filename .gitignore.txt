@@ -1,0 +1,32 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (SDK path, etc)
+local.properties
+
+# IDE specific folders
+.idea/
+*.iml
+
+# Android Studio captures
+captures/
+
+# Mac system files
+.DS_Store
+
+# Log files
+*.log
+
+# Generated files
+*.apk
+*.ap_
+
+# Keystore files (in case you’re signing)
+*.jks
+
+# Kotlin build
+.kotlinc/
+
+# Others
+*.class
